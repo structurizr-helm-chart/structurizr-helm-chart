@@ -1,0 +1,4 @@
+repositoryID: structurizr-helm-chart
+owners: # (optional, used to claim repository ownership)
+  - name: Khanh Quoc Le
+    email: khanh96le@gmail.com 
